@@ -1,7 +1,6 @@
 # NodeJS-TodoApp
 <hr>
-<b>Access the application :</b> <a href="https://my-todo-app-sam.herokuapp.com/" >https://my-todo-app-sam.herokuapp.com/</a>
-<hr>
+
 <h3>
   Version 1.1 - Added mongodb database and deployed on heroku
 </h3>
